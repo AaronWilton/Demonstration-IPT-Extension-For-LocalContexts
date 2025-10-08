@@ -25,8 +25,7 @@ Note that properties are sorted within groups, elements within properties are so
 	</rowType>
 	<title>Local Context Project IPT Demonstration</title>
 	<!--Group: Record-->
-	<property><!--RecordID-->
-		<!--<examples>TO DO</examples>-->
+	<property>
 		<description>
 			The identifier of the occurrence the measurement or fact refers to. If not applicable, it should be left empty.
 		</description>
