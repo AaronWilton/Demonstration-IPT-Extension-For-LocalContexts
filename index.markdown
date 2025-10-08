@@ -15,3 +15,4 @@ This work is a contribution to the GBIF pilot aiming to integrate Local Contexts
 
 - [Terms](terms/)
 - [Examples](examples/examples)
+- [IPT Demo Extension](demo-IPT-extension/extension)
