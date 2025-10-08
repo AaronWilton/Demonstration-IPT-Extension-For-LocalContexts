@@ -21,8 +21,8 @@
 title: Demonstration IPT Extension for Local Contexts Labels and Notices
 email: your-email@example.com
 description: A demonstration extension for IPT to include Local Contexts information into a resource.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/Demonstration-IPT-Extension-For-LocalContexts" # the subpath of your site, e.g. /blog
+url: "https://aaronwilton.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: jekyllrb
 github_username:  AaronWilton
 
