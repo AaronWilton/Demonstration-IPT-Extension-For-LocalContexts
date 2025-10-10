@@ -87,7 +87,6 @@ In this example, the Local Contexts Project ID is treated as the primary/parent 
 			<th>OccurrenceID</th>
 			<th>measurementType</th>
 			<th>measurementValue</th>
-			<th>measurementRemarks</th>
 		</tr>
 	</thead>
 	<tbody>
@@ -97,7 +96,7 @@ In this example, the Local Contexts Project ID is treated as the primary/parent 
 			<td>0082E2ED-B729-43DC-9F91-1B1E71F563CF</td>
 			<td>localContextsProjectID</td>
 			<td>106eeba8-1c47-410c-9cfd-89bcb5e22656</td>
-			<td></td>
+			
 		</tr>
 		<tr>
 			<td>a59d6575-dd70-45a4-bc75-0d2c466583a9</td>
@@ -105,7 +104,7 @@ In this example, the Local Contexts Project ID is treated as the primary/parent 
 			<td>0082E2ED-B729-43DC-9F91-1B1E71F563CF</td>
 			<td>localContextsProjectPage</td>
 			<td>https://localcontextshub.org/projects/106eeba8-1c47-410c-9cfd-89bcb5e22656/</td>
-			<td></td>
+			
 		</tr>
 		<tr>
 			<td>e6916c81-cc9b-491a-8ede-f8dbc6113225</td>
@@ -113,7 +112,7 @@ In this example, the Local Contexts Project ID is treated as the primary/parent 
 			<td>0082E2ED-B729-43DC-9F91-1B1E71F563CF</td>
 			<td>localContextsProjectTitle</td>
 			<td>Biological specimens housed at Manaaki Whenua:  Te rohe o Whakatōhea.</td>
-			<td></td>
+			
 		</tr>
 		<tr>
 			<td>97b66be5-383b-4ea5-8d35-d517e5011484</td>
@@ -121,7 +120,7 @@ In this example, the Local Contexts Project ID is treated as the primary/parent 
 			<td>0082E2ED-B729-43DC-9F91-1B1E71F563CF</td>
 			<td>localContextsBioculturalLabel</td>
 			<td>BC Provenance</td>
-			<td></td>
+			
 		</tr>
 		<tr>
 			<td>68e4d625-2fc2-4990-b51d-279589f7f767</td>
@@ -129,7 +128,7 @@ In this example, the Local Contexts Project ID is treated as the primary/parent 
 			<td>0082E2ED-B729-43DC-9F91-1B1E71F563CF</td>
 			<td>localContextsBioculturalLabel</td>
 			<td>Biocultural Notice</td>
-			<td></td>
+			
 		</tr>
 		<tr>
 			<td>94fa99d1-77cb-46df-beb2-e6b75c4aa75f</td>
@@ -137,7 +136,7 @@ In this example, the Local Contexts Project ID is treated as the primary/parent 
 			<td>0082E2ED-B729-43DC-9F91-1B1E71F563CF</td>
 			<td>localContextsBioculturalLabel</td>
 			<td>BC Open to commercialisation</td>
-			<td></td>
+			
 		</tr>
 		<tr>
 			<td>9c910977-d811-44d2-8781-827374588947</td>
@@ -145,7 +144,7 @@ In this example, the Local Contexts Project ID is treated as the primary/parent 
 			<td>0082E2ED-B729-43DC-9F91-1B1E71F563CF</td>
 			<td>localContextsBioculturalLabel</td>
 			<td>BC Open to collaboration</td>
-			<td></td>
+			
 		</tr>
 		<tr>
 			<td>b1043a0a-5891-4742-9cef-94d8ef0c66aa</td>
@@ -153,7 +152,7 @@ In this example, the Local Contexts Project ID is treated as the primary/parent 
 			<td>0082E2ED-B729-43DC-9F91-1B1E71F563CF</td>
 			<td>localContextsBioculturalLabel</td>
 			<td>BC Research Use</td>
-			<td></td>
+			
 		</tr>
 		<tr>
 			<td>8b9dc932-bbef-4fd7-a88e-e50012483241</td>
@@ -161,7 +160,7 @@ In this example, the Local Contexts Project ID is treated as the primary/parent 
 			<td>0082E2ED-B729-43DC-9F91-1B1E71F563CF</td>
 			<td>localContextsProjectID</td>
 			<td>00c8a26c-a4e3-4397-aa8c-7927e6ab732b</td>
-			<td></td>
+			
 		</tr>
 		<tr>
 			<td>b9ac4a68-7dd9-4360-9a6b-2c695a324ff2</td>
@@ -169,7 +168,7 @@ In this example, the Local Contexts Project ID is treated as the primary/parent 
 			<td>0082E2ED-B729-43DC-9F91-1B1E71F563CF</td>
 			<td>localContextsProjectPage</td>
 			<td>https://localcontextshub.org/projects/00c8a26c-a4e3-4397-aa8c-7927e6ab732b/</td>
-			<td></td>
+			
 		</tr>
 		<tr>
 			<td>0736288b-5942-4130-b827-6198b7fe4129</td>
@@ -177,7 +176,7 @@ In this example, the Local Contexts Project ID is treated as the primary/parent 
 			<td>0082E2ED-B729-43DC-9F91-1B1E71F563CF</td>
 			<td>localContextProjectTitle</td>
 			<td>Local Contexts - Allan Herbarium (CHR)</td>
-			<td></td>
+			
 		</tr>
 		
 		<tr>
@@ -186,13 +185,13 @@ In this example, the Local Contexts Project ID is treated as the primary/parent 
 			<td>0082E2ED-B729-43DC-9F91-1B1E71F563CF</td>
 			<td>localContextsNotices</td>
 			<td>Biocultural Notice</td>
-			<td></td>
+			
 		</tr>
 	</tbody>
 </table>
 
 ## Local Context IPT extension
-This illustrates one way the provision of Local context information could be included in a resource using as a more structured IPT extension that is specific for the Local Contexts information.  The data in the table below includes that provided above
+This illustrates one way the provision of Local context information could be included in a resource using as a more structured IPT extension that is specific for the Local Contexts information.  The data in the table below includes that provided above and represents two Local Contexts Projects records for the same occurrence record (based on a specimen).  This first table is arranged how the data would appear in the tsv file in the Darwin Core Archive.
 
 See [terms](../Terms) for definitions of the fields used in the table.
 
@@ -246,5 +245,81 @@ See [terms](../Terms) for definitions of the fields used in the table.
 			<td></td>
 			<td>biocultural</td>
 		</tr>
+	</tbody>
+</table>
+
+The table below includes the same data but with rows and columns flipped.  These are two Local Contexts Project records (as defined in the demo extension) for the same occurrence.
+
+<table>
+	<thead>
+		<tr>
+			<th>field</th>
+			<th>Record 1</th>
+			<th>Record 2</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<th>occurrenceID</th>
+			<td>0082E2ED-B729-43DC-9F91-1B1E71F563CF</td>
+			<td>0082E2ED-B729-43DC-9F91-1B1E71F563CF</td>
+		</tr>
+		<tr>
+			<th>RecordID</th>
+			<td>f294dd2e-6d60-414f-97a2-b5ffe5e52aeb</td>
+			<td>8b9dc932-bbef-4fd7-a88e-e50012483241</td>
+		</tr>
+		<tr>
+			<th>RecordDateAdded</th>
+			<td>2022-08-29 14:10:43.433</td>
+			<td>2023-02-16 11:07:02.600</td>
+		</tr>
+		<tr>
+			<th>RecordDateModified</th>
+			<td>2023-02-16 10:56:50.523</td>
+			<td></td>
+		</tr>
+		<tr>
+			<th>localContextProjectID</th>
+			<td>106eeba8-1c47-410c-9cfd-89bcb5e22656</td>
+			<td>00c8a26c-a4e3-4397-aa8c-7927e6ab732b</td>
+		</tr>
+		<tr>
+			<th>localContextProjectTitle</th>
+			<td>Biological specimens housed at Manaaki Whenua: Te rohe o Whakatōhea.</td>
+			<td>Local Contexts - Allan Herbarium (CHR)</td>
+		</tr>
+		<tr>
+			<th>localContextProjectDateAdded</th>	
+			<td>2022-06-29</td>
+			<td></td>
+		</tr>
+		<tr>
+			<th>ProvidersProjectID</th>
+			<td>39354db3-3f40-4ef4-a5ee-4c15823ed231</td>
+			<td>26625172-5c0f-49e8-9b68-e258428fba83</td>
+		</tr>
+		<tr>
+			<th>localContextProjectPage</th>
+			<td>https://localcontextshub.org/projects/106eeba8-1c47-410c-9cfd-89bcb5e22656</td>
+			<td>https://localcontextshub.org/projects/00c8a26c-a4e3-4397-aa8c-7927e6ab732b</td>
+		</tr>
+		<tr>
+			<th>localContextBCLabels</th>
+			<td>collaboration|commercialization|provenance|research</td>
+			<td></td>
+		</tr>
+		<tr>
+			<th>localContextTKLabels</th>
+			<td></td>
+			<td></td>
+		</tr>
+		<tr>
+			<th>localContextNotices</th>
+			<td></td>
+			<td>biocultural</td>
+		</tr>
+		
+		
 	</tbody>
 </table>
